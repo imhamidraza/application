@@ -1,1 +1,2 @@
 Its a file B
+first change into file B
