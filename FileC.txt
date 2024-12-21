@@ -1,1 +1,2 @@
 its a file C 
+this is squash merge
