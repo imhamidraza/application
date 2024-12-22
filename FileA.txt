@@ -1,2 +1,3 @@
 Its a file A
 first change into the file A
+new
